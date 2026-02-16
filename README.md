@@ -1,4 +1,4 @@
-# SGI Compositor Firmware Patcher Task
+# SGI Scalable Graphics Compositor Firmware Patcher Task
 
 ### Preamble
 
